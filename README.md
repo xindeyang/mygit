@@ -1,0 +1,2 @@
+# mygit
+for study coding
